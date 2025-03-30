@@ -9,7 +9,7 @@ Este projeto é um **software de faturamento de estoques**, desenvolvido em **Ja
 - Controle de estoque (entrada e saída)
 - Relatórios de faturamento
 - Busca e filtragem de produtos
-- Integração com banco de dados (a definir)
+- Integração com banco de dados MySQL
 
 ## Tecnologias Utilizadas
 - **Linguagem:** Java
