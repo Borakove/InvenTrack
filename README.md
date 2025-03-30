@@ -14,7 +14,7 @@ Este projeto é um **software de faturamento de estoques**, desenvolvido em **Ja
 ## Tecnologias Utilizadas
 - **Linguagem:** Java
 - **Banco de Dados:**  MySQL
-- **Frameworks:** (Spring Boot e JavaF
+- **Frameworks:** Spring Boot e JavaFX
 
 ## Como Rodar o Projeto
 1. **Clone o repositório:**
@@ -34,7 +34,7 @@ Este projeto é um **software de faturamento de estoques**, desenvolvido em **Ja
    java -cp bin Main
    ```
 
-## 📜 Contribuição
+## Contribuição
 1. **Crie um branch para sua funcionalidade:**
    ```bash
    git checkout -b feature/nome-da-feature
